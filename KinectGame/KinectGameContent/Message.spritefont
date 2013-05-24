@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Graphics="Microsoft.Xna.Framework.Content.Pipeline.Graphics">
+  <Asset Type="Graphics:FontDescription">
+
+    <FontName>微軟正黑體</FontName>
+    <Size>14</Size>
+    <Spacing>0</Spacing>
+    <UseKerning>true</UseKerning>
+    <Style>Regular</Style>
+    <CharacterRegions>
+      <CharacterRegion>
+        <Start>&#32;</Start>
+        <End>&#126;</End>
+      </CharacterRegion>
+      <CharacterRegion><Start>作</Start><End>作</End></CharacterRegion>
+      <CharacterRegion><Start>用</Start><End>用</End></CharacterRegion>
+      <CharacterRegion><Start>中</Start><End>中</End></CharacterRegion>
+    </CharacterRegions>
+  </Asset>
+</XnaContent>
